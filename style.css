@@ -1,0 +1,13 @@
+.fondo {
+    background-color: salmon;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.borde {
+    border-color: rgb(209, 124, 124);
+}
